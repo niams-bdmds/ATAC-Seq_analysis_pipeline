@@ -1,0 +1,22 @@
+genome_size:
+  mm9:  /data/jiangk/annotation/BDMS/snake/genomes/mm9.genome
+  mm10: /data/regmib2/scripts/BDMDS/ref_files/mm10.chrom.sizes
+
+bowtie_index:
+  mm9: /fdb/igenomes/Mus_musculus/UCSC/mm9/Sequence/BowtieIndex/genome
+  mm10: /fdb/igenomes/Mus_musculus/UCSC/mm10/Sequence/BowtieIndex/genome
+
+bowtie2_index:
+  mm9: /fdb/igenomes/Mus_musculus/UCSC/mm9/Sequence/Bowtie2Index/genome
+  mm10: /fdb/igenomes/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome
+
+gtf:
+  mm9: /fdb/igenomes/Mus_musculus/UCSC/mm9/Annotation/Genes/genes.gtf
+  mm10: /fdb/igenomes/Mus_musculus/UCSC/mm10/Annotation/Genes/genes.gtf
+
+black_list:
+  mm10: /data/regmib2/scripts/BDMDS/ref_files/mm10-blacklist.v2.bed
+
+macs1:
+  mm9: mm
+  mm10: mm
