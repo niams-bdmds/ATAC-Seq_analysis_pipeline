@@ -2,7 +2,8 @@
 
 ## Overview
 This repository contains script directory, .yml, .yaml, and configuration files
-required for implementing this pipeline. 
+required for implementing this pipeline. The repo has been recenlty updated with
+MACS3 peak calling (see the MACS3) version in the repo.
 
 ## How to run this pipeline
 This pipeline requires reference genome, genome-size file and bowtie index file.
